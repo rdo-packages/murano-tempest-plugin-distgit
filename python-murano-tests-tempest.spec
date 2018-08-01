@@ -47,6 +47,14 @@ Requires:   python2-oslo-config >= 2:4.0.0
 Requires:   python2-oslo-serialization >= 2.18.0
 Requires:   python2-oslo-utils >= 3.28.0
 Requires:   python2-requests >= 2.14.2
+Requires:   python2-nose
+Requires:   python2-testresources
+Requires:   python2-keystoneclient
+Requires:   python2-heatclient
+Requires:   python2-neutronclient
+Requires:   python2-muranoclient
+Requires:   python2-congressclient
+Requires:   python2-mistralclient
 
 %description -n python2-%{service}-tests-tempest
 %{common_desc}
@@ -78,6 +86,15 @@ Requires:   python3-oslo-config >= 2:4.0.0
 Requires:   python3-oslo-serialization >= 2.18.0
 Requires:   python3-oslo-utils >= 3.28.0
 Requires:   python3-requests >= 2.14.2
+Requires:   python3-nose
+Requires:   python3-testresources
+Requires:   python3-keystoneclient
+Requires:   python3-heatclient
+Requires:   python3-neutronclient
+Requires:   python3-muranoclient
+Requires:   python3-congressclient
+Requires:   python3-mistralclient
+
 
 %description -n python3-%{service}-tests-tempest
 %{common_desc}
