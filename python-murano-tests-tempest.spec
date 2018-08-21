@@ -39,13 +39,13 @@ BuildRequires:  python2-setuptools
 
 Obsoletes:   python-murano-tests < 5.0.0
 
-Requires:   python2-pbr >= 2.0.0
-Requires:   python2-six >= 1.9.0
-Requires:   python2-tempest >= 1:17.2.0
+Requires:   python2-pbr >= 3.1.1
+Requires:   python2-six >= 1.10.0
+Requires:   python2-tempest >= 1:18.0.0
 Requires:   python2-testtools >= 1.8.0
-Requires:   python2-oslo-config >= 2:4.0.0
+Requires:   python2-oslo-config >= 2:5.2.0
 Requires:   python2-oslo-serialization >= 2.18.0
-Requires:   python2-oslo-utils >= 3.28.0
+Requires:   python2-oslo-utils >= 3.33.0
 Requires:   python2-requests >= 2.14.2
 Requires:   python2-testresources
 Requires:   python2-keystoneclient
@@ -77,13 +77,13 @@ BuildRequires:  python3-devel
 BuildRequires:  python3-pbr
 BuildRequires:  python3-setuptools
 
-Requires:   python3-pbr >= 2.0.0
-Requires:   python3-six >= 1.9.0
-Requires:   python3-tempest >= 1:17.2.0
+Requires:   python3-pbr >= 3.1.1
+Requires:   python3-six >= 1.10.0
+Requires:   python3-tempest >= 1:18.0.0
 Requires:   python3-testtools >= 1.8.0
-Requires:   python3-oslo-config >= 2:4.0.0
+Requires:   python3-oslo-config >= 2:5.2.0
 Requires:   python3-oslo-serialization >= 2.18.0
-Requires:   python3-oslo-utils >= 3.28.0
+Requires:   python3-oslo-utils >= 3.33.0
 Requires:   python3-requests >= 2.14.2
 Requires:   python3-testresources
 Requires:   python3-keystoneclient
