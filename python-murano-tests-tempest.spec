@@ -111,3 +111,4 @@ rm -rf doc/build/html/.{doctrees,buildinfo}
 
 %changelog
 
+# REMOVEME: error caused by commit http://git.openstack.org/cgit/openstack/murano-tempest-plugin/commit/?id=ce7f13fc24ad88ab560c6bc399fc109bd5777288
