@@ -48,7 +48,6 @@ Requires:   python3-keystoneclient
 Requires:   python3-heatclient
 Requires:   python3-neutronclient
 Requires:   python3-muranoclient
-Requires:   python3-congressclient
 Requires:   python3-mistralclient
 
 %description -n python3-%{service}-tests-tempest
